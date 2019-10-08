@@ -1,0 +1,16 @@
+.trip {
+  background: white;
+  border: 2px solid black;
+  font-weight: 600;
+  height: 20px;
+  position: absolute;
+  text-align: center;
+}
+
+.trip:hover {
+  cursor: pointer;
+}
+
+.selected {
+  background: gray;
+}

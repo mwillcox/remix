@@ -1,0 +1,11 @@
+.time-wrapper {
+  margin-left: 100px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.time-label {
+  display: inline-block;
+  font-size: 12px;
+  width: 60px;
+}

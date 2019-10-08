@@ -1,0 +1,32 @@
+
+.bus-container {
+  align-items: center;
+  border-bottom: 1px solid gray;
+  display: flex;
+}
+
+.bus-label {
+  border-right: 1px solid gray;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  width: 100px;
+}
+
+.bus-data{
+  display: inline-block;
+  height: 24px;
+  margin-left: 50px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.bus-container{
+  border-bottom: 1px solid grey;
+}
+
+.bus-container:nth-child(even) {
+  background: Gainsboro;
+}
+
